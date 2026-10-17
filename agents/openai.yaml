@@ -1,0 +1,4 @@
+interface:
+  display_name: "Office to Markdown"
+  short_description: "Convert Word and PowerPoint files to structured Markdown with images"
+  default_prompt: "Convert this Office file to Markdown, preserving hierarchy, numbering, tables, and local image assets."
